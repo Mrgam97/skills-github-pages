@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Mitch's GitHub Journey: Welcome to my blog!
 ---
